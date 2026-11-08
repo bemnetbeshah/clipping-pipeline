@@ -1,0 +1,16 @@
+# media and pipeline outputs
+sources/
+renders/
+index/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.sqlite
+# secrets
+.env
+*.env
+# python
+__pycache__/
+.venv/
